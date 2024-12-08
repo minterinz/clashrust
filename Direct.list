@@ -8,12 +8,14 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,bluecg.net
 DOMAIN-SUFFIX,strava.com
+DOMAIN-SUFFIX,turtle-wow.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,169.150.222.223/8090,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
