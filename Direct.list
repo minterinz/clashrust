@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,bluecg.net
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,turtle-wow.org
+DOMAIN-SUFFIX,nvidia.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
