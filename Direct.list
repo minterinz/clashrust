@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DST-PORT,6881-6889
+SRC-PORT,6881-6889
+GEOIP,CN
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -15,6 +18,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
